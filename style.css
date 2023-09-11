@@ -1477,6 +1477,9 @@ table {
 	.mu-testimonials-block{
 	  	width:100%;
 	}
+	*:not(..navbar-brand):not(.navbar-toggle){
+  		width:100%;
+	}
 
 }
 
