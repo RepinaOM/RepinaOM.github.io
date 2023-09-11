@@ -1459,6 +1459,10 @@ table {
 		font-size: 9px;
 	}
 
+	.mu-heading-title{
+		width:100%;
+	}
+
 }
 
 
