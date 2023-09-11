@@ -1467,6 +1467,9 @@ table {
 	*:not(.mu-heading-title){
   		font-size: 10px;
 	}
+	p{
+		font-size: 10px;
+	}
 	img{
 		width:100%;
 	}
