@@ -1421,69 +1421,6 @@ table {
 		
 }
 
-
-@media (max-width: 640px){
-
-	#mu-header.mu-fixed-nav {
-		padding: 10px 0;
-	}
-	
-	.mu-featured-slider-content {
-		left: 0;
-		right: 0;
-		bottom: 0;
-		top: 30%;
-		padding: 0 10px;
-	}
-
-	.mu-featured-slider-content h2 {
-		font-size: 20px;
-		margin-bottom: 5px;
-	}
-
-	.mu-featured-slider-content p {
-		font-size: 12px;
-	}
-
-	.mu-primary-btn {
-		font-size: 12px;
-		padding: 10px 12px;
-		margin-top: 15px;
-	}
-
-	.slick-dots {
-		bottom: 15px;
-	}
-
-	.tekst_sverhu_kartinki{
-		font-size: 9px;
-	}
-
-	.mu-heading-title{
-		font-size: 16px;
-		width:100%;
-	}
-
-	*:not(.mu-heading-title){
-  		font-size: 10px;
-	}
-	p{
-		font-size: 10px;
-	}
-	img{
-		width:100%;
-	}
-
-	.mu-testimonials-block{
-	  	width:100%;
-	}
-	*:not(.navbar-brand):not(.navbar-toggle){
-  		width:100%;
-	}
-
-}
-
-
 @media (max-width: 480px) {
 
 	#mu-header {
